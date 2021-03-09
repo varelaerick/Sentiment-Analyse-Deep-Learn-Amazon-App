@@ -90,3 +90,15 @@ For the final test I build a function that applies our pipeline for text preproc
 </p>
 
 
+<br/>
+<br/>
+<br/>
+
+## For the full dynamic visualizations:
+
+### [See The Kernel On Kaggle](https://www.kaggle.com/erickvarela/sentiment-analyse-deep-learn-amazon-app)
+
+
+### [Or On Nbviewer](https://nbviewer.jupyter.org/github/varelaerick/Sentiment-Analyse-Deep-Learn-Amazon-App/blob/main/sentiment-analyse-deep-learn-amazon-app.ipynb)
+
+

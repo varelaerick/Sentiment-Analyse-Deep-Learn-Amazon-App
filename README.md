@@ -1,4 +1,4 @@
-# Sentiment Analyse+Deep Learn - Amazon App
+# Sentiment Analyse+Deep Learn - Amazon App - Project Overview
 
 ## Motivation
 

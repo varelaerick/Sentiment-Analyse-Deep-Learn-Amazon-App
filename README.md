@@ -8,11 +8,11 @@ The objective of the project is to extract, manipulate and create a good deep le
 
 ## Overview
 
-Created a Sentiment Analysis with Deep Learning to recognise a sentiment in a text.
-Scraped over 3000 reviews for Google Play Store and App Store using APIs 
-Built a pipeline that text preprocessing the reviews and to bring them to  a form that is predictable and analyzable for the neural network.
-Converted text inputs into embedded vectors using Global Vectors For Word (GloVe)
-Built a sentiment analysis using keras modules Model , Dense, LSTM and Embedding.
+* Created a Sentiment Analysis with Deep Learning to recognise a sentiment in a text.
+* Scraped over 3000 reviews for Google Play Store and App Store using APIs 
+* Built a pipeline that text preprocessing the reviews and to bring them to  a form that is predictable and analyzable for the neural network.
+* Converted text inputs into embedded vectors using Global Vectors For Word (GloVe)
+* Built a sentiment analysis using keras modules Model , Dense, LSTM and Embedding.
 
 ## Resources Used
 
